@@ -6,7 +6,7 @@ Git for collaboration on the course Intorduction to Machine Learning and Data Mi
 ## Lecture 1 - A description of your data set
 
 ### Explain what your data is about. I.e. what is the overall problem of interest?
-The data set hvae been used to determine the protein location in an E.Coli bacteria based on amino acid information.
+The data set have been used to determine the protein location in an E.Coli bacteria based on amino acid information.
 
 ### Provide a reference to where you obtained the data
 https://archive.ics.uci.edu/dataset/39/ecoli?fbclid=IwAR1E7icOilywWfVsrejd8Z-GJ1XP0mkKazjnwDALd6Y8c4e3VCdkwZM0ItU
